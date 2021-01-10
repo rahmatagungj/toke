@@ -1,4 +1,7 @@
 # TOKE ALGORITHM
+
+!["Two Original Key Encryption"](./Documentation/LOGO%20PANJANG.png?raw=true "Two Original Key Encryption")
+
 **TOKE** (*Two Original Key Encryption*) is a security method through data encryption in the form of numbers and characters, this system uses a mathematical algorithm that can be used to secure certain messages. This service may convert ordinary messages in human language into more secure data.
 
 ## How does it work?
