@@ -1,5 +1,5 @@
 !["Two Original Key Encryption"](./Documentation/LOGO%20PANJANG.png?raw=true "Two Original Key Encryption")
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge) [![Linkedin Badge](https://img.shields.io/badge/-rahmatagungj-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmatagungj/)](https://www.linkedin.com/in/rahmatagungj/) [![Instagram Badge](https://img.shields.io/badge/-rahmatagungj-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rahmatagungj/)](https://instagram.com/rahmatagungj) [![Gmail Badge](https://img.shields.io/badge/-rahmatagungj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahmatagungj@gmail.com)](mailto:rahmatagungj@gmail.com)
 ## Table Of Content
 - [About](#about)
 - [How does it work?](#how-does-it-work-)
