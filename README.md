@@ -20,7 +20,7 @@ There are some models that cannot be done in this system, such as new lines and 
 ## Extension
 Users who will run the TOKE system will get a program with the extension .EXE and an encrypted message will produce 2 files with the extension .TL1E and .TL2E.
 
-### Regarding TL1E and TL2E
+#### Regarding TL1E and TL2E
 
 > **TL1E** is TOKE Layer 1 Encryption.
 
