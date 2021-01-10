@@ -9,7 +9,7 @@
 - [Notes](#notes)
 - [Author](#author)
 
-## About 
+## About [![start with about](https://img.shields.io/badge/start%20with-about-brightgreen.svg?style=flat)](https://github.com/rahmatagungj/toke)
 **TOKE** (*Two Original Key Encryption*) is a security method through data encryption in the form of numbers and characters, this system uses a mathematical algorithm that can be used to secure certain messages. This service may convert ordinary messages in human language into more secure data.
 
 ## How does it work?
