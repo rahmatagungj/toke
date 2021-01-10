@@ -15,7 +15,7 @@
 ## How does it work?
 The messages entered to the system will be converted into 2 files containing the message keys, these 2 files have different contents (in the form of numbers and characters).
 
-!["How TOKE System Works"](./Documentation/flow.png?raw=true "TOKE Algorithm Works")
+!["How TOKE System Works"](./Documentation/flow.jpg?raw=true "TOKE Algorithm Works")
 
 ## Supported characters
 There are several types that are supported by the TOKE system, such as letters, numbers and symbols.
