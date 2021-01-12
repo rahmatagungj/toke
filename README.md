@@ -17,7 +17,7 @@ The message files that enter the system will be converted into 2 files containin
 
 !["How TOKE System Works"](./Documentation/flow.jpg?raw=true "TOKE Algorithm Works")
 
-## Supported characters
+## Supported file types
 There are several types supported by the TOKE system, the following are file types that are supported:
 
 No | Type | Status
