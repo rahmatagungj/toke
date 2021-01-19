@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/rahmatagungj/toke/releases/latest"><img alt="undefined" src="https://img.shields.io/github/v/release/rahmatagungj/toke.svg?style=popout"></a>
-    <a href="https://github.com/rahmatagungj/toke/releases/download/v.1.1/TOKE.exe" target="_blank"><img alt="undefined" src="https://badgen.net/badge/Download/Windows/?color=blue&icon=windows&label"></a>
+    <a href="https://github.com/rahmatagungj/toke/releases/download/v.1.2/TOKE.exe" target="_blank"><img alt="undefined" src="https://badgen.net/badge/Download/Windows/?color=blue&icon=windows&label"></a>
 </p>
 
 ## Table Of Content
