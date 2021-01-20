@@ -8,7 +8,7 @@
 ## Table Of Content
 - [About](#about)
 - [How does it work?](#how-does-it-work-)
-- [Supported characters](#supported-characters)
+- [Supported file types](#supported-file-types)
 - [Extension](#extension)
     + [Regarding TL1E and TL2E](#regarding-tl1e-and-tl2e)
 - [Notes](#notes)
