@@ -1,8 +1,37 @@
 body {
-	background-color: black;
+	background-color: white;
 }
 
 .welcome {
 	color: white;
 	font-size: 100px;
+}
+
+.mydark {
+	background-image: url("../image/batik.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+  	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 50px;
+	color: white;
+	font-family: Neucha,sans-serif;
+	text-align: center;
+}
+
+.mytextfeature {
+	font-size: 25px;
+}
+
+.myinfeature {
+	font-size: 15px;
+}
+
+.tokelogo {
+	max-width: 300px;
+	float: right;
+}
+
+.inmyleft {
+	float: left;
 }

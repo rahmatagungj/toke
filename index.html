@@ -4,37 +4,129 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="asset/css/bootstrap.min.css" rel="stylesheet">
+    <link href="asset/css/paper.min.css" rel="stylesheet">
     <link href="asset/css/custom.css" rel="stylesheet">
     <title>Two Original Key Encryption</title>
   </head>
   <body>
-  	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="asset/image/LOGO%20PANJANG.png" alt="Two Original Key Encryption" style="max-width: 100px"/></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Download</a>
-        </li>
+<nav class="border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="#">TOKE</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <label for="collapsible1">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+    </label>
+    <div class="collapsible-body">
+      <ul class="inline">
+        <li><a href="https://github.com/rahmatagungj/toke/blob/main/README.md" alt="Two Original Key Encryption" target="_blank">Documentation</a></li>
+        <li><a href="#feature">Feature</a></li>
+        <li><a href="https://github.com/rahmatagungj/toke/releases" alt="Download Two Original Key Encryption" target="_blank">Download</a></li>
       </ul>
-      <span class="navbar-text">
-        Two Original Key Encryption
-      </span>
     </div>
   </div>
 </nav>
-	<center>
-		<br/><br/><br/>
-    <h1 class="welcome">HI!</h1>
+    <div class="mydark">
+      <br/>
+      <h3>
+      "Advanced encryption with two layers of keys."
+    </h3>
+    <a href="https://github.com/rahmatagungj/toke/releases" alt="Download Two Original Key Encryption" target="_blank"><button class="btn-success">Download</button> </a>
+    <a href="https://github.com/rahmatagungj/toke/discussions" alt="Report Bug TOKE" target="_blank"><button class="btn-danger">Report Bug</button></a>
+    <br/>
+    </div><br/>
+    <div class="row flex-spaces child-borders" id="feature">
+      <div class="sm-11">
+        <br/>
+        <center><h4>Why choose TOKE?</h4></center>
+        <br/>
+          <div class="row flex-spaces child-borders">
+          <div class="sm-3 col border-dashed myfeature">
+            <h5 class="mytextfeature"> Special Numeric </h5>
+            <p class="myinfeature"> High security uses special numbering in each text,
+
+            </p>
+          </div>
+          <div class="sm-3 col border-dashed myfeature">
+            <h5 class="mytextfeature"> Email Sender </h5>
+            <p class="myinfeature"> Encrypted files can be sent directly to the user's email
+            </p>
+          </div>
+          <div class="sm-3 col border-dashed myfeature">
+            <h5 class="mytextfeature"> Private Key </h5>
+            <p class="myinfeature"> Files can be locked using a special private ownership key
+            </p>
+          </div>
+          <div class="sm-3 col border-dashed myfeature">
+            <h5 class="mytextfeature"> Fast and light </h5>
+            <p class="myinfeature"> TOKE's applications and algorithms are designed to be portable and fast
+            </p>
+          </div>
+        </div> 
+      </div>
+    </div>
+    <br/>
+    <div class="container-lg">
+      <h3> Whats is TOKE? </h3>
+      <img src="asset/image/LOGO.png" class="tokelogo" alt="Logo TOKE">
+      <p>TOKE (Two Original Key Encryption) is a security method through encryption of data in the form of numbers and characters, this system uses a mathematical algorithm that can be used to secure certain messages. This service can convert ordinary messages in human language and files into more secure data.</p>
+      <h3> How does it works?</h3>
+      <p>The message files that enter the system will be converted into 2 files containing the message keys, the 2 files have different contents (in the form of numbers and characters).</p>
+      <fieldset class="form-group">
+        <label for="paperSwitch1" class="paper-switch-tile">
+          <input id="paperSwitch1" name="paperSwitch1" type="checkbox" />
+          <div class="paper-switch-tile-card border">
+            <div class="paper-switch-tile-card-front border">Plain</div>
+            <div class="paper-switch-tile-card-back border background-primary">TL1E</div>
+          </div>
+        </label>
+        <label for="paperSwitch2" class="paper-switch-tile">
+          <input id="paperSwitch2" name="paperSwitch2" type="checkbox" />
+          <div class="paper-switch-tile-card border">
+            <div class="paper-switch-tile-card-front border background-warning">TOKE</div>
+            <div class="paper-switch-tile-card-back border background-secondary">TL2E</div>
+          </div>
+        </label>
+        <label for="paperSwitch3" class="paper-switch-tile">
+          <input id="paperSwitch3" name="paperSwitch3" type="checkbox" />
+          <div class="paper-switch-tile-card border">
+            <div class="paper-switch-tile-card-front border background-danger">Encrypt</div>
+            <div class="paper-switch-tile-card-back border background-success">Decrypt</div>
+          </div>
+        </label>
+      </fieldset>
+      <h3> Supported file types </h3>
+      <p>There are several types supported by the TOKE system, the following are file types that are supported:
+        <ul class="inline">
+          <li>TXT</li>
+          <li>HTML</li>
+          <li>PHP</li>
+          <li>CSS</li>
+          <li>JS</li>
+          <li>JSX</li>
+          <li>JSON</li>
+          <li>PY</li>
+          <li>LUA</li>
+        </ul>
+        The TOKE system can encrypt all files of any text type, but does not support files such as docx, xls and ppt.
+      </p>
+      <h3>Extension</h3>
+      <p>Users who will run the TOKE system will get a program with an .EXE extension and an encrypted message file will produce 2 files with the extension .TL1E and .TL2E.
+      </p>
+      <h4>Regarding TL1E and TL2E</h4>
+      <p>TL1E and TL2E are extensions of files containing encrypted message files, TL1E is the first file containing the first security data and TL1E is the second file containing the second security data.</p>
+      <pre><code>TL1E is TOKE Layer 1 Encryption.</code></pre>
+      <pre><code>TL2E is TOKE Layer 2 Encryption.</code></pre>
+      <p>Both of these files have contents in the form of encrypted data where each file has different contents, when these two files are merged and declared suitable, the message will be successfully decrypted. When a user opens an encrypted message file, the user must have 2 files that contain message data, namely TL1E and TL2E. If the data from TL1E and TL2E match and can be accepted, a message file will appear in the TOKE application, but if there is a mismatch of data in the two files, the message cannot be decrypted.
+      </p>
+      <div class="row flex-spaces child-borders" id="feature">
+      <div class="sm-11">
+        <center>Two Original Key Encryption - 2021</center>
+      </div>
+    </div>
     <script src="asset/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
