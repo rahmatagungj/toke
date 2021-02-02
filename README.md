@@ -11,6 +11,7 @@
 - [Supported file types](#supported-file-types)
 - [Extension](#extension)
     + [Regarding TL1E and TL2E](#regarding-tl1e-and-tl2e)
+- [Serial number](#serial-number)
 - [Notes](#notes)
 - [Author](#author)
 
@@ -52,6 +53,9 @@ TL1E and TL2E are extensions of files containing encrypted message files, TL1E i
 
 Both of these files have contents in the form of encrypted data where each file has different contents, when these two files are merged and declared suitable, the message will be successfully decrypted.
 When a user opens an encrypted message file, the user must have 2 files that contain message data, namely TL1E and TL2E. If the data from TL1E and TL2E match and can be accepted, a message file will appear in the TOKE application, but if there is a mismatch of data in the two files, the message cannot be decrypted.
+
+## Serial Number
+To run the application fully, a serial number is required. Serial numbers can be obtained FREE of charge by calling my email which is listed below.
 
 ## Notes
 1. The TOKE application can only run on the windows platform.
