@@ -12,6 +12,7 @@
 - [Extension](#extension)
     + [Regarding TL1E and TL2E](#regarding-tl1e-and-tl2e)
 - [Serial number](#serial-number)
+- [Command](#command)
 - [Notes](#notes)
 - [Author](#author)
 
@@ -57,6 +58,26 @@ When a user opens an encrypted message file, the user must have 2 files that con
 ## Serial Number
 To run the application fully, a serial number is required. Serial numbers can be obtained FREE of charge by calling my email which is listed below.
 
+## Command
+
+    COMMAND         DESCRIPTION
+    -----------     ------------
+    encrypt         Encrypt a file with or without a passw
+                    ord.
+    decrypt         Decrypt an encrypted file with or with
+                    out a password.
+    online          Check the user's network status.
+    files           Displays files supported by the TOKE s
+                    ystem in the program directory.
+    license         Checks user license information data u
+                    sed.
+    shutdown        Turn off the TOKE system.
+    exit            Exit application (same as shutdown).
+    command         Displays all command functions (cmd).
+    help            Displays encryption and decryption inf
+                    ormation.
+    about           Displays a page about the application.
+       
 ## Notes
 1. The TOKE application can only run on the windows platform.
 
