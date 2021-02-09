@@ -84,8 +84,14 @@ TOKE requires a browser as an intermediary for display with the system, some sup
 The TOKE application supports 32bit and 64bit system architectures, but on the 64bit version the TOKE application will run faster.
 
 ### Screenshot
-<img src="./Documentation/ui_1.png" width="180" height="280" />  <img src="./Documentation/ui_2.png" width="180" height="280" />  <img src="./Documentation/ui_3.png" width="180" height="280" />  <img src="./Documentation/ui_4.png" width="180" height="280" />  <img src="./Documentation/ui_5.png" width="180" height="280" />
 
+| | |
+| -------------------------- | :----------------: |
+|<img src="./Documentation/ui_1.png"/>|<img src="./Documentation/ui_2.png"/> |
+|<img src="./Documentation/ui_3.png"/>|<img src="./Documentation/ui_4.png"/> |
+|<img src="./Documentation/ui_5.png"/>|
+
+* This screenshot is taken based on the latest released application.
 
 ## Wiki
 Do you ***need some help***? Check the articles from the <a href="https://github.com/rahmatagungj/toke/wiki">wiki</a>.
