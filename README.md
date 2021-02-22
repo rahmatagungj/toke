@@ -14,7 +14,7 @@
 - [Application](#application)
     + [Requirements](#requirements)
     + [Features](#features)
-    + [Sreenshot](#screenshot)
+    + [Screenshot](#screenshot)
 - [Wiki](#wiki)
 - [Author](#author)
 
